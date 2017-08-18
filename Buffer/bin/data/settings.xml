@@ -1,0 +1,12 @@
+<settings>
+	<deviceId>0</deviceId>
+	<serialName>/dev/tty.usbserial-A70060V8</serialName>
+	<baudRate>9600</baudRate>
+	<frameRate>30</frameRate>
+	<camWidth>1920</camWidth>
+	<camHeight>1080</camHeight>
+	<bufferLimit>400</bufferLimit>
+	<drawDebugInfo>1</drawDebugInfo>
+	<saveVideo>1</saveVideo>
+	<timeOutSecs>10</timeOutSecs>
+</settings>

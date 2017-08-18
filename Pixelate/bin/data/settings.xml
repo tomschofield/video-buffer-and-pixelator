@@ -1,0 +1,6 @@
+<settings>
+	<deviceId>0</deviceId>
+	<serialName>/dev/tty.usbserial-A7006SUJ</serialName>
+	<baudRate>9600</baudRate>
+	<frameRate>30</frameRate>
+</settings>
